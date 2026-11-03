@@ -2,5 +2,6 @@
  "version": "v2026.11.03",
  "releasedAt": "2026-11-03T22:41:43Z",
  "olives": 0,
- "base": "https://cdn.jsdelivr.net/gh/joashberk/olive-bible-releases@v2026.11.03/"
+ "commit": "9c5d872bba26679075eaf955f26bd1eb9d78855f",
+ "base": "https://cdn.jsdelivr.net/gh/joashberk/olive-bible-releases@9c5d872bba26679075eaf955f26bd1eb9d78855f/"
 }
