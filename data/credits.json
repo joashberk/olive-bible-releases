@@ -1,0 +1,103 @@
+{
+ "_about": "Credits the sources require. Show these on an About or Credits screen. STEPBible's credit (with a link) is required by its CC BY 4.0 license.",
+ "translations": [
+  {
+   "name": "World English Bible, USFM with Strong's tags (engwebp, Protestant canon)",
+   "license": "Public domain. \"World English Bible\" is a trademark of eBible.org.",
+   "credit": "World English Bible (WEB), public domain, from eBible.org. Unchanged, so we may call it the WEB.",
+   "link": "https://ebible.org/web/copyright.htm"
+  },
+  {
+   "name": "World English Bible as JSON with poetry lines (npm world-english-bible)",
+   "license": "Public domain text",
+   "credit": "World English Bible, public domain, from eBible.org.",
+   "link": "https://ebible.org/web/copyright.htm"
+  },
+  {
+   "name": "King James Version with Strong's numbers (kaiserlik/kjv)",
+   "license": "Public domain outside the United Kingdom (Crown rights apply in the UK)",
+   "credit": "King James Version (1769 text), public domain outside the UK. Strong's numbers by James Strong (1890), public domain."
+  },
+  {
+   "name": "American Standard Version 1901 (npm holy-bible)",
+   "license": "Public domain",
+   "credit": "American Standard Version (1901), public domain."
+  }
+ ],
+ "data": [
+  {
+   "name": "STEPBible Data (TAHOT, TAGNT, TBESH, TBESG, TIPNR)",
+   "license": "CC BY 4.0",
+   "credit": "Hebrew and Greek data from STEP Bible (STEPBible.org), Tyndale House, Cambridge, used under CC BY 4.0.",
+   "link": "https://www.STEPBible.org"
+  },
+  {
+   "name": "Berean Standard Bible words and their manual alignment to Hebrew and Greek (Clear Bible Alignments)",
+   "license": "BSB text public domain (CC0); alignments CC BY 4.0 (Clear Bible); WLC text unrestricted (tanach.us); SBLGNT CC BY 4.0",
+   "credit": "Berean Standard Bible (BSB), public domain. Word alignments by Clear Bible, Inc. and BiblioNexus, CC BY 4.0. SBL Greek New Testament, CC BY 4.0. Westminster Leningrad Codex via tanach.us.",
+   "link": "https://berean.bible/licensing.htm"
+  }
+ ],
+ "library": [
+  {
+   "name": "Easton's Bible Dictionary",
+   "license": "Public domain",
+   "credit": "M. G. Easton, Illustrated Bible Dictionary, 3rd ed. (Thomas Nelson, 1897); electronic text by the Christian Classics Ethereal Library (CCEL).",
+   "tier": 3
+  },
+  {
+   "name": "Smith's Bible Dictionary",
+   "license": "Public domain",
+   "credit": "William Smith, Smith's Bible Dictionary (CCEL edition of the one-volume abridgement, print source dated 1884); electronic text by CCEL.",
+   "tier": 3
+  },
+  {
+   "name": "International Standard Bible Encyclopedia",
+   "license": "Public domain",
+   "credit": "James Orr (gen. ed.), The International Standard Bible Encyclopedia (1915); CrossWire SWORD module 'ISBE' v2.2.",
+   "tier": 3
+  },
+  {
+   "name": "Nave's Topical Bible",
+   "license": "Public domain",
+   "credit": "Orville J. Nave, Nave's Topical Bible; CrossWire SWORD module 'Nave' v3.0 (from ccel.org/ccel/n/nave/bible.xml).",
+   "tier": 3
+  },
+  {
+   "name": "Treasury of Scripture Knowledge",
+   "license": "Public domain",
+   "credit": "The Treasury of Scripture Knowledge (Canne, Browne, Blayney, Scott and others; Bagster, c. 1836); CrossWire SWORD module 'TSK' v1.4.",
+   "tier": 3
+  },
+  {
+   "name": "Josephus, Antiquities of the Jews (Whiston)",
+   "license": "Public domain",
+   "credit": "Flavius Josephus, The Antiquities of the Jews, tr. William Whiston (1737); Project Gutenberg eBook #2848, produced by David Reed and David Widger.",
+   "tier": 2
+  },
+  {
+   "name": "Josephus, The Wars of the Jews (Whiston)",
+   "license": "Public domain",
+   "credit": "Flavius Josephus, The Wars of the Jews, tr. William Whiston (1737); Project Gutenberg eBook #2850.",
+   "tier": 2
+  },
+  {
+   "name": "The Life of Flavius Josephus (Whiston)",
+   "license": "Public domain",
+   "credit": "Flavius Josephus, The Life of Flavius Josephus, tr. William Whiston (1737); Project Gutenberg eBook #2846.",
+   "tier": 2
+  },
+  {
+   "name": "Josephus, Against Apion (Whiston)",
+   "license": "Public domain",
+   "credit": "Flavius Josephus, Against Apion, tr. William Whiston (1737); Project Gutenberg eBook #2849.",
+   "tier": 2
+  }
+ ],
+ "required": [
+  "Hebrew and Greek data: STEP Bible (STEPBible.org), Tyndale House, Cambridge, CC BY 4.0.",
+  "Word alignments for the Berean Standard Bible: Clear Bible, Inc. and BiblioNexus, CC BY 4.0.",
+  "Scripture quotations marked WEB are from the World English Bible, public domain. \"World English Bible\" is a trademark of eBible.org.",
+  "The King James Version is public domain outside the United Kingdom; in the UK it is subject to Crown rights."
+ ]
+}
